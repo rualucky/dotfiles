@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "coc-css": ">=1.3.0",
+    "coc-html": ">=1.6.1",
+    "coc-json": ">=1.4.1",
+    "coc-marketplace": ">=1.8.1",
+    "coc-tsserver": ">=1.9.12",
+    "coc-vetur": ">=1.2.5"
+  }
+}
